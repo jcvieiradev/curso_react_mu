@@ -1,1 +1,1 @@
-export * from './Ligth';
+export * from './Ligth'
